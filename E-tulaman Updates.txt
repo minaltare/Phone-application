@@ -1,0 +1,58 @@
+Dear Sir,
+
+Below are the meeting Updates for E-Tulamaan Project:-
+
+Day 1 (21-09-2021):
+
+Meeting with Mr. Pawan Janghir (SA-DOIT)
+
+Demonstrate the Business Process of Weights and measurment department 
+Imformaion about Existing Process flows
+1) Verification
+2)Re-verification
+3)Inspection Processes
+4)User type like LMO,Citizen,Repairer
+
+Meeting with Mr.Irfaan developer Atishay limited
+
+Provide KT of E-Tulaman Appication
+1)Demonstrate the Functional Process module listed below
+2)Verification Process:- Demonstrate the functional flow of verification user registration,Firm Registration etc.
+3)Renewal varification:- Demonstrate the functional flow of Reverification like Documend Upload,Item selection
+4)Inspection: Demonstrate the functional flow of Inspection done by LMO(Legel Metrological officer)
+
+Day 2(22-09-2021): 
+
+Meeting with Mr. Anil kumar Agarwal (Additional food comm.) 
+Discuss the existing functionality of E-Tulamaan application
+Discussion on design and develop the application in a scratch level
+Mr. Anil sir align the dedicated person for requirment gathering.
+Mr. Ravindra kumar jain (Programmer),Mr.C.R jaiswani(Deputy controller legel metrological dept.),Mr. Mahipaal sing(LMO) are SPOC for requirment gathering of E-Tulamaan Application.
+
+Day 3(23-09-2021): 
+
+Meeting with Ravindra Kumar jain(Programmer), Mr. C.R. Jaiswani(DCLM) 
+Demonstrate about the business process
+Demonstrate the User Type and their working processes.
+Demonstrate the verification process and give requirement for verification module.
+
+Below are the points which wee need to required/finalised from Department.
+Required 40 item list with moovable and non moovable item with expiry dates like (1 Year,2 Year,5 Year)
+All the registration feilds to be finalised by department like: Registration feilds,Personnel information feilds,firm details etc.
+
+As discussed with stakeholders,they demonstrate only one module requirement (Verification) and once the documentation is completed and freeze by dept. accordingly we can proceed further.
+
+Action Plan:
+
+Prapere the workflow of Functionality (Vrification,Reverification)
+Prapere the SRS for e-Tulaman with feild level description
+Prapere the Wirframe/Mockups for application.
+Finalized or freeze Business Requirment document.
+Freeze all the wirframes with respect to Application
+
+
+
+
+
+
+
