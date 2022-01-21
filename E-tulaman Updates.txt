@@ -50,7 +50,8 @@ Prapere the Wirframe/Mockups for application.
 Finalized or freeze Business Requirment document.
 Freeze all the wirframes with respect to Application
 
-
+Prapere the workflow of Functionality (Vrification,Reverification)
+Prapere the workflow of Functionality (Vrification,Reverification)
 
 
 
